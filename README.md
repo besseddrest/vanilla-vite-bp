@@ -1,2 +1,5 @@
 # vanilla-vite-bp
-My Vanilla JS Boilerplate
+
+This is a WIP.
+
+A starting point for web applications written with vanilla Javascript.
